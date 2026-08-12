@@ -33,4 +33,6 @@ pages:
   - type: finish
     id: finish_page
     name: Finish
-    content: "The test is successfully completed. Please click the download button to save your results file (.csv) and send it to the researcher. Thank you!"
+    content: "The test is successfully completed! Please copy the text below and send it to the researcher."
+    showResults: true
+    writeResults: false
